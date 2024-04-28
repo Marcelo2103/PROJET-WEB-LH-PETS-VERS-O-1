@@ -1,0 +1,7 @@
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.csproj.AssemblyReference.cache
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.AssemblyInfoInputs.cache
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MARCELO\Desktop\Projeto Web-LH Pets versao 1\obj\Debug\net8.0\Projeto Web-LH Pets versao 1.sourcelink.json
